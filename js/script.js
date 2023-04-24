@@ -3,9 +3,9 @@ var textoResultante = document.querySelector("#textoResultante")
 var botonEncriptar = document.querySelector("#botonEncriptar");
 var botonDesencriptar = document.querySelector("#botonDesencriptar");
 var botonCopiar = document.querySelector("#botonCopiar");
-var reemplazarA = "enter";
-var reemplazarE = "imes";
-var reemplazarI = "ai";
+var reemplazarA = "ai";
+var reemplazarE = "enter";
+var reemplazarI = "imes";
 var reemplazarO = "ober";
 var reemplazarU = "ufat";
 
